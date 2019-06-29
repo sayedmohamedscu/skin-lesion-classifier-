@@ -96,7 +96,7 @@ not clear and the normal camera'RGB' _i think it isn't suitable for scan like th
 
 ## Authors
 
-* **Sayed mohamed**  - [PurpleBooth](https://github.com/sayedmohamedscu)
+* **Sayed mohamed**  - [sayed mohamed](https://github.com/sayedmohamedscu)
 
 
 
